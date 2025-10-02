@@ -1,6 +1,6 @@
 package pkgone;
 
-public class Acc {
+public class Acc1 {
     public static void main(String args[]) {
         Acc2 a = new Acc2();
         a.insert(4, "Jhon", 5400000.0f);
